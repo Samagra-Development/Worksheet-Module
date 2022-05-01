@@ -1,1 +1,1 @@
-# Worksheet Module
+# Standard React Template with Module federation
